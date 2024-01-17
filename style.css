@@ -10,6 +10,8 @@ h1 {
 p  {
     margin:auto;
     display: block;
+    margin-left: 500px;
+
 }
 
 .food-list{
@@ -21,6 +23,7 @@ p  {
     border: 1px dotted black;
     text-align: center;
 }
+
 
 .ingre{
     display: block;
