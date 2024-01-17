@@ -7,6 +7,11 @@ h1 {
     padding: 10px;
     border: 5px black dotted;
 }
+p  {
+    margin:auto;
+    display: block;
+}
+
 .food-list{
     background-color: aquamarine;
     margin: auto 510px;
@@ -17,16 +22,29 @@ h1 {
     text-align: center;
 }
 
+.ingre{
+    display: block;
+    margin-left: 550px;
+    margin-top: -300px;
+}
+.steps{
+     display: block;
+     padding: 100px;
+     margin-left: -100px;
+}
+
 h4 {
     background-color:blueviolet;
     padding-left: 10px;
-    margin-right: 800px;
+    margin-right: 1500px;
 
 }
+
 body {
     background-color: antiquewhite;
 }
 
 img {
     border-radius: 5%;
+    display: inline;
 }
